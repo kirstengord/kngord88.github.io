@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    background-image: url("file:///Users/kirstengord/Dropbox/pexels-suzy-hazelwood-1629236.jpg")
+}
+
+.main-title {
+    color: gray;
+    font-family: Arial;
+    font-size: 50px
+}
+
+.main-nav {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial;
+    font-size: 20px
+    table-layout: fixed;
+}
+
+
+.highlight{
+    color: white;
+}
